@@ -1,0 +1,61 @@
+* {
+      background-color:cyan;
+      background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQTEhQUExQUFRQXFBcYGBcYGBcYGBwYFxQXFxQYGhcYHCggGBwlHBwXITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NFA8PFCwcFBwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsNywsLCwsLDcsLP/AABEIAKgBLAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAABAAIDBv/EACcQAQEBAAEBBwUAAwAAAAAAAAABEQISITFRYYGR8EFxobHxwdHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEFBP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APQ8jPIUxnulRQ33HSokEDYUQHVFg0EYygKwG0EepgoGUwYZgHVolFBoWQfRcvZRd3+UWQM9lo1ArVVRQIEVAjPRaagpVLPYGAVZghUWGCjfJA2eo055K/cFKuo4KC1YopxBFZgxQxYjgM2eeGHj9jgMXicasWALxS5VnUDDJ2M8YZQTXLuYk09XioDqk8NWICVnqbrPSBnklixRMN4MQS+4s+fU6AsLNPeC1aosA6txQyAVoHsCgnFsYCkGnBARikUih7Czas+oNCatQKUj59zlQFqlxKqLlVxXJTigZAtQCcTz+l7zZo5X0A3l91aOU7BANHKzw/2qzqhi6lxu95qCoXcQCtNq7VGaNaqQUSWAjIr5jjxA/lQqglpZwGhgiUI1aEDFb6L8qgJTn3FvkZFCFexdWgj3MmUFYJyXH3N44C+h4qexgHjAouXiArOKwgsii/DMoGwjTqC+prMVUJ5VceNWAzFDBIgYFFoGnQbAInohAOqqEGe8Y1k9hLqiyK8u02f0b49/kAvecPT9FxnyoM/NJ5Lf4opPn7XT4dn7a8uw9kByvH+mcGuXI8b2AMzxQvJoGc8EJnj/ALPeC0c2uodgCxXsaUgMWMzk3eE8TMBmUw9C6dgCeUM8zk/q0FfGJSKgMFakV4gJB0+DU4EGDDQCWtYxcQOqIAVJ/RDvkC1W4O9KGLV6C0DbjPGNSeak9AWrPqpVmAMVMg35/wABWpLPNAxSCHvUG+Pz1S485e77dnakGtZ6xyv8MUPKqX7jpxAZb9TKzGp7/oBvqL8n/Ty+YKgbb47F3z56rBijUsZtIgH3S7RIDUqoqiCt7GbWxufQBDauTNoGISYcANCIBqn4VIHQYulRDPquMWewLVTYM9AM7BvgdxnQVoPKqzwQHCSd3Z87Tn0UKjNaxcuKl0AZ6I6AmtUEB0tcWYe9A2hCqDSlAVoVViCqtNisBSqzz/wsGgc8FvYtHKqCFcVUBhCiinuVEgosSxRdOr7owBmf7P2FP5BSr8qVICVWKKxQrp9GfP8ApA0RLQKwSkDxVErVoM2JHlEEMRUBgQHR9zAgWYcFAxZ8xSs3l4gVVhgKixdSAFlWg1yUQtUMoWqArFCMBabKJ5kDq5QKILjc+aqrV0qIoWoLo7FnmiopFOAtU4g0qrRgEYlEEqZRVBUUClBlFBWIwIKfMZt+bHTj/Ry4g1jNa1aoxazO115Z8/bN/SDNJOKM4sOs2gdB0ArDeIowFrVrOHjQS3xU5bvl+zuoHV9BRIo1gqlFArFi0DAlAOoNAOK5I6ApQgDCtWoCmL8KKLBIepSoHjDBKVGf8qQpAcu7KZUlGUkgqqkoBIkgr7pIDq1JRRFILfkVlSBSen7FnylKDi1fL01JBdLJSgkJQIpAKkgC0oBaEkGlYUB0SpKP/9k=")
+    }
+    #mossywall {
+
+    border: 15px solid blue;
+    }
+.rest {
+  text-align: center;
+}
+    p.one{
+      border-style: groove;
+      border-width: 3px;
+      border-color: black;
+    }
+    p {
+      font-size: 20px;
+    }
+    #choices {
+      border: 2px solid black;
+    }
+    .choicesclick {
+      font-family:Arial;
+    }
+    p.header {
+      width: 960px;
+      margin: 0 auto;
+      font-size: 40px;
+    }
+
+    #location {
+      font-family:Garamond;
+      font-size: 40px;
+    }
+
+    h1, h2 {
+    	font-family: fantasy;
+      color: blue;
+
+    }
+
+    #swordmo:hover {
+      color:red;
+      background-color: :yellow;
+}
+    a:hover {
+      color:yellow;
+    }
+    a:active{
+      background:orange;
+    }
+    a:link {
+      color:blue;
+    }
+    #box {
+      width:100px;
+      height: 250px;
+      overflow: scroll;
+    margin: 0 auto;
+    }
